@@ -20,7 +20,7 @@ public class FollowPlayerX : MonoBehaviour
         transform.position = Player.transform.position + originalCamPos;
     }
 }*/
-{
+/*{
     public Transform targetObject; 
     private Vector3 initalOffset;
     private Vector3 cameraPosition;
@@ -36,3 +36,4 @@ public class FollowPlayerX : MonoBehaviour
         transform.position = cameraPosition;
     }
 }
+*/
